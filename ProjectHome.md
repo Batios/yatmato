@@ -1,0 +1,2 @@
+yatmato was originally build for managing a beachhockey tournamen in austria. Anyway you can manage nearly all kinds of sport tournament with the tool!
+The complete tool stores the data inside a mysql database. It depends on yii-framework and can be easily extended.
